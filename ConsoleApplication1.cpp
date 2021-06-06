@@ -10,7 +10,7 @@
 
     long long sixApostrophe = 7'666'555'444'333'222'111;
 
-    char dog = '@';
+    char Dog = '@';
 
     bool spnDsntExst = true;
 
